@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc index",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.2",
+    "typescript": "^4.0.3"
+  }
+}
